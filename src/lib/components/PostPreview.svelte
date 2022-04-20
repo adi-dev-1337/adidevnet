@@ -6,7 +6,7 @@
   export let small = false
 </script>
 
-<div class="flex flex-col">
+<div class="flex flex-col yt">
   <div>
     {#if !small}
       <h1 class="!mt-0 !mb-2">
