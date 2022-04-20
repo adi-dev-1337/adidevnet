@@ -11,7 +11,7 @@ Tasks so far
 ----------
 - Black background ✅
 - White text ✅
-- Back button on all posts ❌
+- Back button on all posts ✅
 - Hashlink text white ❌
 
 Things broken

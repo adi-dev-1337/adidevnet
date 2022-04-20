@@ -78,7 +78,7 @@
   <meta name="twitter:description" content={preview.text} />
   <meta name="twitter:image" content={ogImage} />
 </svelte:head>
-
+<div style="text-align:center"><a href="/">Homepage</a> <a href="/posts">Posts</a></div>
 <article style="color:white;" class="relative">
   <h1 class="!mt-0 !mb-2">
     <a class="!font-medium" href={$page.url.pathname}>

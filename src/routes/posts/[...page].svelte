@@ -62,7 +62,7 @@
 <svelte:head>
   <title>{name} | Posts</title>
 </svelte:head>
-
+<div style="text-align:center"><a href="/">Homepage</a></div>
 <div class="flex flex-col flex-grow">
   <div class="flex-grow divide-y divide-slate-300 dark:divide-slate-700">
     {#each posts as post}

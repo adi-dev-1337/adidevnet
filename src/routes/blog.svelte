@@ -23,6 +23,7 @@
 </svelte:head>
 
 <div class="flex flex-col flex-grow">
+  <div style="text-align:center"><a href="/">Homepage</a></div>
   <!-- replace with a bio about you, or something -->
   <!-- <div class="flex items-center justify-center text-xl h-40">
     <ButtonLink size="large" href="https://github.com/mattjennings/sveltekit-blog-template">
