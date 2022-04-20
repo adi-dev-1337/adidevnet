@@ -5,7 +5,6 @@
   import MoonIcon from 'heroicons-svelte/solid/MoonIcon.svelte'
   import SunIcon from 'heroicons-svelte/solid/SunIcon.svelte'
   import { browser } from '$app/env'
-  import { name } from '$lib/info'
 
   let prefersLight = browser ? Boolean(JSON.parse(localStorage.getItem('prefersLight'))) : false
 </script>
@@ -14,9 +13,7 @@
   <div class="mx-auto flex flex-col flex-grow w-full max-w-4xl">
     <div class="flex h-16 px-4 py-2 justify-between items-center">
       <h2 class="!text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-500 dark:from-violet-500 dark:to-pink-500">
-        <a class="text-lg sm:text-2xl font-bold" href="/">
-          {name}
-        </a>
+      
       </h2>
       {#if browser}
         <!-- <button type="button" role="switch" aria-label="Toggle Dark Mode" aria-checked="{!prefersLight}" class="h-4 w-4 sm:h-8 sm:w-8 sm:p-1" on:click="{()}" => {
