@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Adidev</title>
+	<title>Adi</title>
 </svelte:head>
 
 <h1 class="c1">I'm Adi<br><div class="c1"><div class="type">Web Developer.</div></div>
