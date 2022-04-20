@@ -10,8 +10,9 @@ First task was to move the blog to a less front-of-house place on the site, brea
 Tasks so far
 ----------
 - Black background ✅
-- White text ❌
+- White text ✅
 - Back button on all posts ❌
+- Hashlink text white ❌
 
 Things broken
 --------------

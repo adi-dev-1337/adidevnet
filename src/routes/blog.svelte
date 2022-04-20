@@ -43,7 +43,7 @@
   </div> -->
 
   <!-- recent posts -->
-  <h2 class="flex items-baseline gap-4 !mb-2">
+  <h2 style="color:white;" class="flex items-baseline gap-4 !mb-2">
     Recent Posts
     <ButtonLink href="/posts" size="small" raised={false} class="opacity-60">View All</ButtonLink>
   </h2>

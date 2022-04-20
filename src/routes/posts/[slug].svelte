@@ -79,7 +79,7 @@
   <meta name="twitter:image" content={ogImage} />
 </svelte:head>
 
-<article class="relative">
+<article style="color:white;" class="relative">
   <h1 class="!mt-0 !mb-2">
     <a class="!font-medium" href={$page.url.pathname}>
       {title}
