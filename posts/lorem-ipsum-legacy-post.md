@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum
+title: Lorem Ipsum - Legacy Post
 date: 2022-01-02
 ---
 
