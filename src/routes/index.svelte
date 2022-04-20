@@ -2,17 +2,19 @@
 	<title>Adidev</title>
 </svelte:head>
 
-<h1>I'm Adi<br><div class="c1"><div class="type">Web Developer.</div></div>
+<h1 class="c1">I'm Adi<br><div class="c1"><div class="type">Web Developer.</div></div>
 <br>
 <div class="c1"><div class="type2">Cloud Engineer.</div></div>
 <br>
 <div class="c1"><div class="type3">Data scientist.</div></div>
 <br>
-<div class="c1"><div class="type4"><a href="https://github.com/adi-dev-1337">My Github!</a></div></div>
+<div class="c1"><div class="type4"><a href="blog">My Blog.</a></div></div>
 <br>
-<div class="c1"><div class="type4"><a href="https://twitter.com/_adidev_">My Twitter?</a></div></div>
+<div class="c1"><div class="type5"><a href="https://github.com/adi-dev-1337">My Github!</a></div></div>
 <br>
-<div class="c1"><div class="type4"><a href="https://github.com/adi_dev">My Twitch...</a></div></div>
+<div class="c1"><div class="type6"><a href="https://twitter.com/_adidev_">My Twitter?</a></div></div>
+<br>
+<div class="c1"><div class="type7"><a href="https://github.com/adi_dev">My Twitch...</a></div></div>
 <br></h1>
 
 <style>
@@ -26,6 +28,7 @@
   }
   .c1{
     display: inline-block;
+    color: white;
   }
 
   h1{
@@ -80,7 +83,7 @@
       width: 0;
       animation: 
         typing 1s steps(25, end) forwards;
-      animation-delay: 5s;
+      animation-delay: 4.5s;
   }
   h1 .type6{
       font-size: 2.5rem; 
@@ -90,7 +93,17 @@
       width: 0;
       animation: 
         typing 1s steps(25, end) forwards;
-      animation-delay: 6s;
+      animation-delay: 5s;
+  }
+  h1 .type7{
+      font-size: 2.5rem; 
+      overflow: hidden;
+      border-right: .15em solid orange; 
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+      animation-delay: 5.5s;
   }
   @keyframes typing {
     from { width: 0 }

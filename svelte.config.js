@@ -14,7 +14,12 @@ const config = {
       preprocess({
         postcss: true
       })
-    ]
+    ],
+    preprocess({
+      scss: {
+        prependData: '@use "src/variables.scss" as *;'
+      }
+    })
   ],
 
   kit: {
@@ -35,6 +40,14 @@ const config = {
       server: {
         fs: {
           allow: ['./']
+        }
+      },
+
+      css: {
+        preprocessorOptions: {
+          scss: {
+            additionalData: '@use "src/variables.scss" as *;'
+          }
         }
       }
     }

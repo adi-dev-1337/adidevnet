@@ -24,7 +24,7 @@
 
 <div class="flex flex-col flex-grow">
   <!-- replace with a bio about you, or something -->
-  <div class="flex items-center justify-center text-xl h-40">
+  <!-- <div class="flex items-center justify-center text-xl h-40">
     <ButtonLink size="large" href="https://github.com/mattjennings/sveltekit-blog-template">
       <slot slot="icon-start">
         <svg
@@ -40,7 +40,7 @@
       View on GitHub
       <slot slot="icon-end" />
     </ButtonLink>
-  </div>
+  </div> -->
 
   <!-- recent posts -->
   <h2 class="flex items-baseline gap-4 !mb-2">
