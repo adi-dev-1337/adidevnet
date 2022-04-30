@@ -6,7 +6,7 @@
 <br>
 <div class="c1"><div class="type2">Cloud Engineer.</div></div>
 <br>
-<div class="c1"><div class="type3">Data scientist.</div></div>
+<div class="c1"><div class="type3">Streamer.</div></div>
 <br>
 <div class="c1"><div class="type4"><a href="blog">My Blog.</a></div></div>
 <br>
@@ -15,6 +15,10 @@
 <div class="c1"><div class="type6"><a href="https://twitter.com/_adidev_">My Twitter?</a></div></div>
 <br>
 <div class="c1"><div class="type7"><a href="https://github.com/adi_dev">My Twitch...</a></div></div>
+<br>
+<div class="c1"><div class="type8"><a href="https://podcastlesinthesky.com">My Podcast ^.^</a></div></div>
+<br>
+<div class="c1"><div class="type9"><a href="https://www.patreon.com/adidev">My Patreon £££</a></div></div>
 <br></h1>
 
 <style>
@@ -104,6 +108,26 @@
       animation: 
         typing 1s steps(25, end) forwards;
       animation-delay: 5.5s;
+  }
+  h1 .type8{
+      font-size: 2.5rem; 
+      overflow: hidden;
+      border-right: .15em solid orange; 
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+      animation-delay: 6s;
+  }
+  h1 .type9{
+      font-size: 2.5rem; 
+      overflow: hidden;
+      border-right: .15em solid orange; 
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+      animation-delay: 6.5s;
   }
   @keyframes typing {
     from { width: 0 }
