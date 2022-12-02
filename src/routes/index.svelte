@@ -16,8 +16,6 @@
 <br>
 <div class="c1"><div class="type7"><a href="https://github.com/adi_dev">My Twitch...</a></div></div>
 <br>
-<div class="c1"><div class="type8"><a href="https://podcastlesinthesky.com">My Podcast ^.^</a></div></div>
-<br>
 <div class="c1"><div class="type9"><a href="https://www.patreon.com/adidev">My Patreon £££</a></div></div>
 <br></h1>
 
