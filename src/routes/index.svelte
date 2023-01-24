@@ -6,7 +6,7 @@
 <br>
 <div class="c1"><div class="type2">Cloud Engineer.</div></div>
 <br>
-<div class="c1"><div class="type3">Streamer.</div></div>
+<div class="c1"><div class="type3"><a href="https://twitch.tv/adi_dev">Streamer.</a></div></div>
 <br>
 <div class="c1"><div class="type4"><a href="blog">My Blog.</a></div></div>
 <br>
