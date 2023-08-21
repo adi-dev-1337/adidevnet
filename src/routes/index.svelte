@@ -6,7 +6,7 @@
 <br>
 <div class="c1"><div class="type2">Cloud Engineer.</div></div>
 <br>
-<div class="c1"><div class="type3"><a href="https://twitch.tv/adi_dev">Streamer.</a></div></div>
+<div class="c1"><div class="type3">Streamer.</div></div>
 <br>
 <div class="c1"><div class="type4"><a href="blog">My Blog.</a></div></div>
 <br>
@@ -14,7 +14,7 @@
 <br>
 <div class="c1"><div class="type6"><a href="https://twitter.com/_adidev_">My Twitter?</a></div></div>
 <br>
-<div class="c1"><div class="type7"><a href="https://github.com/adi_dev">My Twitch...</a></div></div>
+<div class="c1"><div class="type7"><a href="https://twitch.com/adi_dev">My Twitch...</a></div></div>
 <br>
 <div class="c1"><div class="type9"><a href="https://www.patreon.com/adidev">My Patreon £££</a></div></div>
 <br></h1>
